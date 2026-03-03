@@ -154,7 +154,7 @@ The `Billing` table includes:
 
 The below entity relationship diagram describes the relationships among the entities in the database.
 
-![ER Diagram](ERD.png)
+![ER Diagram](img/ERD.png)
 
 As detailed by the diagram:
 
